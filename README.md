@@ -8,7 +8,7 @@
 
 This project demonstrates a complete cloud-native infrastructure setup using Kubernetes — without relying on managed services like EKS. The cluster is bootstrapped from scratch using **kubeadm** across **3 AWS EC2 instances**, with full integration of AWS storage services (EBS & EFS).
 
-**Project designed by:** Eng. Mena | [dolfined.com](https://www.dolfined.com)
+**Project designed by:** Eng. Abdelrhman Mohmaed | abd0001102002@gmail.com)
 
 ---
 
